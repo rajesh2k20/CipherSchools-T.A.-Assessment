@@ -42,7 +42,7 @@ void solve(){
         }
     }
     if(count>computer_pridict){
-        cout<<"wrong"<<endl;
+        cout<<"Wrong"<<endl;
     }else{
         cout<<"Right"<<endl;
     }
