@@ -32,7 +32,7 @@ void solve(){
     cin>>money;
     int count=0;
     int computer_pridict= ((rand())%n)+1;
-    cout<<computer_pridict<<endl;
+    
 
     for(int i=0;i<n;i++){
         if(money % item_price[i]==0){
