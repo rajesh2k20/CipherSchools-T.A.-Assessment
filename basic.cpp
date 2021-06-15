@@ -23,7 +23,7 @@ using namespace std;
 void solve(){
       int n=0;
       cin>>n;
-      if(n==1){
+      if(n==0){
         cout<<"Not Possible"<<endl;
       }
       int sum=0;
